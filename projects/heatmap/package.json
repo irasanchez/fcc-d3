@@ -1,0 +1,14 @@
+{
+  "name": "heatmap",
+  "version": "1.0.0",
+  "description": "fcc practice",
+  "main": "heatmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ira Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.3.0"
+  }
+}
